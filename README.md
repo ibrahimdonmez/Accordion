@@ -1,1 +1,1 @@
-![Alt text](/public/Accordion.JPG)
+![Alt text](/public/Accordion.jpg)
